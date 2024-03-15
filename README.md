@@ -11,12 +11,10 @@
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
 - [Conclusions and Recommendations](#conclusions-and-recommendations)
-- [Limitations](#limitations)
-- [References](#references)
 
 ## Project Overview
 ---
-This HR Analytics project aims to examine the factors influencing employee attrition within the organization over the past year. Through a comprehensive analysis of various   parameters in the provided data, our objective is to gain valuable insights that will inform strategic decisions. This process will enable us to construct compelling narratives around our data findings and identify the key contributors to employee retention or turnover. By understanding the factors driving attrition, we can implement targeted measures to enhance employee engagement and foster a positive work environment, ultimately reducing the organization's attrition rate.
+This HR Analytics project aims to examine the factors influencing employee attrition within the organization over the past years. Through a comprehensive analysis of various   parameters in the provided data, our objective is to gain valuable insights that will inform strategic decisions. This process will enable us to construct compelling narratives around our data findings and identify the key contributors to employee retention or turnover. By understanding the factors driving attrition, we can implement targeted measures to enhance employee engagement and foster a positive work environment, ultimately reducing the organization's attrition rate.
 
 ## Data Sources
 ---
@@ -42,12 +40,12 @@ The primary dataset used for this analysis is the "hr_data.xlsx" file, containin
 
 ## Data Cleaning and Preparation
 ---
-In the initial data preparation phase, we performed the following tasks:
-- Data loading and inspection.
-- Handling duplicate data.
-- Handling missing data.
-- Data formatting.
-- Feature selection/engineering.
+In the initial data preparation phase, the following tasks were performed:
+- Data Loading and Inspection.
+- Handling Duplicate Data.
+- Handling Missing Data.
+- Data Formatting.
+- Feature Selection/Engineering.
 
 
 
