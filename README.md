@@ -59,10 +59,18 @@ EDA entails delving into the data to address various questions regarding its cha
 
 ## Data Analysis
 ---
-Here is where I incorporate fundamental lines of code, queries, or even certain Data Analysis Expressions (DAX) expressions utilized during my analysis.
+Here is where I incorporated certain Data Analysis Expressions (DAX) utilized during my analysis.
 ```
-SQL
-SELECT * FROM Table 1 WHERE A,B,C = Positive Integers
+Attrition Rate = sum('HR data'[Attrition Count]) / SUM('HR data'[Employee Count])
+```
+```
+Average Years = AVERAGE('HR data'[Years At Company])
+```
+```
+Rating = REPT("⭐", 'HR data'[Job Satisfaction])
+```
+```
+Retained Employee = sum('HR data'[Employee Count]) - sum('HR data'[Attrition Count])
 ```
 
 ## Results 
@@ -79,20 +87,9 @@ This is where the insights obtained from the analysis are presented.
 ---
 Based on the analysis, i recommend the following actions:
 - Focus on improving retention strategies specifically for male employees.
-- Investigate and address issues causing high attrition in the Life Sciences and R&D departments.
+- Investigate and address issues causing high attrition in the Life Sciences education filed and R&D departments.
 - Provide better support and incentives for single employees and those in the 25-34 age group to encourage them to stay.
 - Review and enhance career growth opportunities, compensation, and work-life balance for employees with Bachelor's degrees.
 - Gather feedback from exiting employees to understand and resolve the root causes of attrition.
 - Benchmark against companies with lower attrition rates and implement industry best practices.
 - Foster a more inclusive and supportive company culture to improve overall employee retention.
-
-
-
-
-
-
-
-
-
-
-
