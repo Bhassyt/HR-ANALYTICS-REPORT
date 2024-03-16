@@ -47,6 +47,22 @@ In the initial data preparation phase, the following tasks were performed:
 - Data Formatting.
 - Feature Selection/Engineering.
 
+## Few Glimpses of EDA
+**1. Attrition distribution with respect to gender:**
+- The attrition count for males, at 150, exceeded that of females, which stood at 87.
+
+**2. Attrition distribution with respect to education field:**
+- With a total attrition count of 89, Life Sciences recorded the highest figure, surpassing Human Resources by 82 counts, as it had the lowest attrition count at 7.
+
+**3. Attrition distribution with respect to marital status:**
+- Single had the highest sum of attrition count, reaching 120, followed by Married at 84, and Divorced at 33
+
+**4. Attrition distribution with respect to department:**
+- R&D recorded the highest sum of attrition count at 133, trailed by Sales at 92, and HR at 12.
+
+**5. Attrition distribution with respect to age group:**
+- With a total attrition count of 112, the age group (25-34) had the highest sum, surpassing the age group (Over 55) by 101 counts, as it had the lowest attrition count at 11.
+
 
 
 
