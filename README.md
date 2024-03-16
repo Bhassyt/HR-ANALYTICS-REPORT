@@ -87,7 +87,7 @@ This is where the insights obtained from the analysis are presented.
 ---
 Based on the analysis, i recommend the following actions:
 - Focus on improving retention strategies specifically for male employees.
-- Investigate and address issues causing high attrition in the Life Sciences education field and R&D departments.
+- Investigate and address issues causing high attrition in the Life Sciences education field and R&D department.
 - Provide better support and incentives for single employees and those in the 25-34 age group to encourage them to stay.
 - Review and enhance career growth opportunities, compensation, and work-life balance for employees with Bachelor's degrees.
 - Gather feedback from exiting employees to understand and resolve the root causes of attrition.
