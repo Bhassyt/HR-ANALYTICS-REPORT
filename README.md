@@ -75,7 +75,7 @@ Retained Employee = sum('HR data'[Employee Count]) - sum('HR data'[Attrition Cou
 
 ## Results 
 ---
-This is where the insights obtained from the analysis are presented.
+This is where the insights obtained from the analysis are presented. "Access my insights here:[[Dashboard Report Link](https://app.powerbi.com/view?r=eyJrIjoiNWFmMDk4MTgtMGU2Yi00M2IwLTgyMWMtNWE5M2MxOWMzY2I4IiwidCI6IjBlZjcwYWU3LWI3NmUtNGI4ZC04NWEzLWZlZmFmNjg4MDAxZCJ9)]"
 - The attrition count for males, at 150, exceeded that of females, which stood at 87.
 - With a total attrition count of 89, Life Sciences recorded the highest figure, surpassing Human Resources by 82 counts, as it had the lowest attrition count at 7.
 - Single had the highest sum of attrition count, reaching 120, followed by Married at 84, and Divorced at 33
