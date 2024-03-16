@@ -25,7 +25,7 @@ The primary dataset used for this analysis is the "hr_data.xlsx" file, containin
 - **Department:** This column represents the department in which an employee works.
 - **Education Field:** This column indicates the field of study of an employee.
 - **Gender:** This column represents the gender of an employee.
-- **Job Role:** This column indicates the job title or role of an employee within the organization.
+- **Job Role:** This column indicates the job role of an employee within the organization.
 - **Marital Status:** This column represents the marital status of an employee (e.g., Single, Married, Divorced).
 - **CF_current Employee:** This column indicate whether an employee is currently employed or not (1 = Yes, 0 = No).
 - **Education:** This column represents the highest level of education attained by an employee.
@@ -87,7 +87,7 @@ This is where the insights obtained from the analysis are presented.
 ---
 Based on the analysis, i recommend the following actions:
 - Focus on improving retention strategies specifically for male employees.
-- Investigate and address issues causing high attrition in the Life Sciences education filed and R&D departments.
+- Investigate and address issues causing high attrition in the Life Sciences education field and R&D departments.
 - Provide better support and incentives for single employees and those in the 25-34 age group to encourage them to stay.
 - Review and enhance career growth opportunities, compensation, and work-life balance for employees with Bachelor's degrees.
 - Gather feedback from exiting employees to understand and resolve the root causes of attrition.
