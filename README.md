@@ -47,12 +47,47 @@ In the initial data preparation phase, the following tasks were performed:
 - Data Formatting.
 - Feature Selection/Engineering.
 
-## Few Glimpses of EDA
-- **Attrition distribution with respect to gender:** The attrition count for males, at 150, exceeded that of females, which stood at 87.
-- **Attrition distribution with respect to education field:** With a total attrition count of 89, Life Sciences recorded the highest figure, surpassing Human Resources by 82 counts, as it had the lowest attrition count at 7.
-- **Attrition distribution with respect to marital status:** Single had the highest sum of attrition count, reaching 120, followed by Married at 84, and Divorced at 33
-- **Attrition distribution with respect to department:** R&D recorded the highest sum of attrition count at 133, trailed by Sales at 92, and HR at 12.
-- **Attrition distribution with respect to age group:** With a total attrition count of 112, the age group (25-34) had the highest sum, surpassing the age group (Over 55) by 101 counts, as it had the lowest attrition count at 11.
+## Exploratory Data Analysis 
+---
+EDA entails delving into the data to address various questions regarding its characteristics, which includes:
+- Which gender had a higher count of attritions?
+- What education field had the highest attrition counts?
+- Which marital status category had the highest count of attritions?
+- Which department had the highest count of attritions?
+- Which age group had the highest attrition counts?
+- Which education level had the highest attrition counts? 
+
+## Data Analysis
+---
+Here is where I incorporate fundamental lines of code, queries, or even certain Data Analysis Expressions (DAX) expressions utilized during my analysis.
+```
+SQL
+SELECT * FROM Table 1 WHERE A,B,C = Positive Integers
+```
+
+## Results 
+---
+This is where the insights obtained from the analysis are presented.
+- The attrition count for males, at 150, exceeded that of females, which stood at 87.
+- With a total attrition count of 89, Life Sciences recorded the highest figure, surpassing Human Resources by 82 counts, as it had the lowest attrition count at 7.
+- Single had the highest sum of attrition count, reaching 120, followed by Married at 84, and Divorced at 33
+- R&D recorded the highest sum of attrition count at 133, trailed by Sales at 92, and HR at 12.
+- With a total attrition count of 112, the age group (25-34) had the highest sum, surpassing the age group (Over 55) by 101 counts, as it had the lowest attrition count at 11.
+- With a total attrition count of 99, Bachelor's Degree had the highest sum, surpassing Doctoral Degree by 94 counts, as it had the lowest attrition count at 5.
+
+## Recommendations
+---
+Based on the analysis, i recommend the following actions:
+- Focus on improving retention strategies specifically for male employees.
+- Investigate and address issues causing high attrition in the Life Sciences and R&D departments.
+- Provide better support and incentives for single employees and those in the 25-34 age group to encourage them to stay.
+- Review and enhance career growth opportunities, compensation, and work-life balance for employees with Bachelor's degrees.
+- Gather feedback from exiting employees to understand and resolve the root causes of attrition.
+- Benchmark against companies with lower attrition rates and implement industry best practices.
+- Foster a more inclusive and supportive company culture to improve overall employee retention.
+
+
+
 
 
 
