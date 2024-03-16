@@ -38,7 +38,7 @@ The primary dataset used for this analysis is the "hr_data.xlsx" file, containin
 - Microsoft Excel (For Data Cleaning) 
 - Microsoft Power BI (For Reporting and Dashboarding)
 
-## Data Cleaning and Preparation
+## Data Cleaning
 ---
 In the initial data preparation phase, the following tasks were performed:
 - Data Loading and Inspection.
